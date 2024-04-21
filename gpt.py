@@ -1,6 +1,6 @@
 from openai import OpenAI
 
-API_KEY='sk-proj-61miEWb0i8Nz40xqEtU3T3BlbkFJu4sHbnKmuDHnyeGPC38T'
+API_KEY=''
 
 
 def gpt(text):
