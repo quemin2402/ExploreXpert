@@ -21,4 +21,4 @@ The Astana Explorer Chatbot is a user-friendly Telegram bot designed to enhance 
 ## Purpose
 This project was developed for a hackathon, aiming to provide a practical and engaging tool for tourists and locals exploring Astana. It leverages artificial intelligence to enrich the user experience with cultural and historical knowledge, making city navigation straightforward and informative.
 
-Team Name: Procrastinators
+Team Name: Procrastinators - Magzhan Kabduakhitov, Sanat Mamyrbek, Sergey Klimov, Merey Ibraim
